@@ -9,7 +9,7 @@ int addDigits(int num){
 }
 
 void main() {
-  print();
-  print();
-  print();
+  print(addDigits(38));
+  print(addDigits(0));
+  print(addDigits(28));
 }
